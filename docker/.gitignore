@@ -1,0 +1,2 @@
+database/dbfolder/data/*
+!database/dbfolder/data/.gitkeep
